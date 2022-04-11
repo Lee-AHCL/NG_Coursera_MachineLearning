@@ -1,0 +1,2 @@
+# NG_Coursera_MachineLearning
+機械学習講義の実装練習
